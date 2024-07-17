@@ -1,2 +1,2 @@
 # bookbot
-Bookbot - the first project!
+Bookbot
